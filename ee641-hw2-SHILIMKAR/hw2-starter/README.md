@@ -18,6 +18,11 @@ See assignment page for full instructions.
 
 ## EE 641: Deep Learning - Homework 2
 
+# Personal Information
+
+  Name: Shravani Shilimkar
+  USC Email: shilimka@usc.edu
+
 
 ## Problem 1:
 
@@ -64,14 +69,7 @@ Experimental Outcome: A key finding from the provided training logs was that the
 
 
 
-## Problem 2
-
-# Personal Information
-
-  Name: Shravani Shilimkar
-  USC Email: shilimka@usc.edu
-
------
+## Problem 2:
 
 #Instructions to Run
 
