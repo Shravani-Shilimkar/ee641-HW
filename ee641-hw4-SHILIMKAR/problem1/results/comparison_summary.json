@@ -1,0 +1,8 @@
+{
+    "Value Iteration Iterations": 31,
+    "Q-Iteration Iterations": 31,
+    "Policies Match": true,
+    "VI_V_max": 9.159765243530273,
+    "QI_V_max": 9.159765243530273,
+    "V_max_difference": 0.0
+}

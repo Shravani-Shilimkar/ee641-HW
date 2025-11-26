@@ -1,0 +1,35 @@
+{
+    "independent": {
+        "mode": "independent",
+        "num_episodes": 100,
+        "mean_reward": 10.705000000000009,
+        "std_reward": 35.49331592004333,
+        "success_rate": 0.01,
+        "mean_steps_on_success": 5.0,
+        "median_steps_on_success": 5.0,
+        "comm_A_mean_over_all": 0.520460708117485,
+        "comm_B_mean_over_all": 0.5033789961993694
+    },
+    "comm": {
+        "mode": "comm",
+        "num_episodes": 100,
+        "mean_reward": 20.728000000000012,
+        "std_reward": 41.45470318311303,
+        "success_rate": 0.02,
+        "mean_steps_on_success": 6.0,
+        "median_steps_on_success": 6.0,
+        "comm_A_mean_over_all": 0.5120523232042788,
+        "comm_B_mean_over_all": 0.4980188337624073
+    },
+    "full": {
+        "mode": "full",
+        "num_episodes": 100,
+        "mean_reward": 2.9600000000000044,
+        "std_reward": 26.994784681489882,
+        "success_rate": 0.0,
+        "mean_steps_on_success": 50,
+        "median_steps_on_success": 50,
+        "comm_A_mean_over_all": 0.5103983427464963,
+        "comm_B_mean_over_all": 0.48469155275225645
+    }
+}
